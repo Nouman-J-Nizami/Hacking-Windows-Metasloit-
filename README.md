@@ -6,6 +6,7 @@ This project demonstrates the use of the Metasploit Framework to identify, valid
 The exercise focuses on understanding the attack lifecycle, including reconnaissance, vulnerability assessment, exploitation, and post-exploitation verification.
 
 Objectives
+
 Configure a secure penetration testing laboratory
 Identify exposed Windows services
 Assess potential vulnerabilities
